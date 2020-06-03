@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTXTCalihua</string>
+    <string name="mititulo">Manejo de archivos de texto</string>
+    <string name="tnombre">Ingrese su nombre</string>
+    <string name="tcontenido">Contenido de archivo</string>
+    <string name="mgrabado">Grabar</string>
+</resources>
